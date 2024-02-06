@@ -1,0 +1,3 @@
+1 - Create and calculate a version of the needs with two extra text fields for jurisdictions and PDCs.  These should be cleaned so that they match the GeoIDs in the DataExplorer lookup table (ie, the City of Richmond should be called "Richmond City" and the County should be "Richmond")
+
+2 - Run notebook with modified version of needs layer
